@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/components/calendarview.tsx","./src/components/charts.tsx","./src/components/checkin.tsx","./src/components/insights.tsx","./src/components/reflect.tsx","./src/components/settings.tsx","./src/lib/insights.ts","./src/lib/mood.ts","./src/lib/storage.ts","./src/lib/types.ts"],"version":"5.9.3"}
